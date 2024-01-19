@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @19mcfoster and my name is Matthew Foster
+- 👋 Hi, I’m @19mcfoster.
 - 👀 I’m interested in Software Development, especially in UI/UX and fronted graphical interfaces.
 - 🌱 I’m currently learning game development  
 - 💞️ I’m looking to collaborate on frontend projects
