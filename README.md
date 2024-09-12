@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @19mcfoster.
-- 👀 I’m interested in Software Development, especially in UI/UX and fronted graphical interfaces.
-- 🌱 I’m currently learning game development  
+- 👀 I’m interested in Software Development, especially in UI/UX and fronted graphical interfaces. 
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me:
 -     Email: 19mcfoster@gmail.com
